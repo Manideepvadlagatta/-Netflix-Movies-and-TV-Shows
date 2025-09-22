@@ -25,7 +25,7 @@ The aim is to make the dataset **consistent, clean, and ready for analysis**, so
 4. **Removing Duplicates**  
    - Dropped duplicate rows to ensure uniqueness
 
-##💻Technologies Used
+## 💻 Technologies Used
 
 Python 3.x
 
